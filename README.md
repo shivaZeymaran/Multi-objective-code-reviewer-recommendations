@@ -1,4 +1,4 @@
-# Multi-objective-code-reviewer-recommendations
+# Multi-objective code reviewer recommendations
 
 
 This code is the implementation of the paper "Rebai S, Amich A, Molaei S, Kessentini M, Kazman R. Multi-objective code reviewer recommendations: balancing expertise, availability and collaborations. Automated Software Engineering. 2020 Dec;27(3):301-28.". 
